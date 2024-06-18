@@ -80,6 +80,8 @@ We don't have a real API for this challenge, so we added some utilities to simul
 
 **Actual:** Options dropdown stays in the same position as you scroll the page, losing the reference to the select input
 
+[**Solution Screenshot**](https://www.loom.com/share/ec15f368d3c94675b8688a7d3e96bb31?sid=51d837eb-43a3-4116-99e2-16e61be8102a)
+
 # Bug 2: Approve checkbox not working
 
 **How to reproduce:**
