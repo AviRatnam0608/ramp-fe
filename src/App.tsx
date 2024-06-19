@@ -80,6 +80,7 @@ export function App() {
               onClick={async () => {
                 await loadAllTransactions()
               }}
+              hidden={paginatedTransactions?.nextPage == null || transactionsByEmployee?.length === 0}
             >
               View More
             </button>
